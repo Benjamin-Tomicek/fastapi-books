@@ -1,1 +1,2 @@
-# fastapi-books
+# Books DB
+## FastAPI and web scraping
